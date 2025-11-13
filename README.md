@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Atharva Mohite</h1>
+<h1 align="center">Hi ✌🏻😁, I'm Atharva Mohite🤓</h1>
 <h3 align="center">Data professional specializing in AI/ML and cloud-native solutions. I'm passionate about building scalable data pipelines and leveraging machine learning to solve complex problems.</h3>
 
-- 🌱 I’m currently learning **C,JS and frameworks**
+- 👨🏻‍💻I’m currently learning **C,JS and frameworks**
 
 - 👯 I’m looking to collaborate on **projects related to Data and AL/ML**
 
 - 🤝 I’m looking for help with **Cloud and AI/ML**
 
-- 📫 How to reach me **atharvam2017@gmail.com**
+- 📩How to reach me **atharvam2017@gmail.com**
 
-- ⚡ Fun fact **I love to go to the GYM**
+- 🦾Fun fact **I love to go to the GYM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
