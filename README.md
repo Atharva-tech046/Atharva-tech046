@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharva Mohite</h1>
 <h3 align="center">Data professional specializing in AI/ML and cloud-native solutions. I'm passionate about building scalable data pipelines and leveraging machine learning to solve complex problems.</h3>
 
-- 🌱 I’m currently learning **C,JS and frameworks**
+- 🌱 I’m currently learning **Frameworks and AI/ML RAG models**
 
 - 👯 I’m looking to collaborate on **projects related to Data and AL/ML**
 
