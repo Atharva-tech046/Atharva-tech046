@@ -1,5 +1,5 @@
-# 💫 About Me:
-🌱 I’m currently learning C,JS and frameworks<br><br>👯 I’m looking to collaborate on projects related to Data and AL/ML<br><br>🤝 I’m looking for help with Cloud and AI/ML<br><br>📫 How to reach me atharvam2017@gmail.com<br><br>⚡ Fun fact I love to go to the GYM
+# Hello Atharva here!✌🏻
+Transforming data into decisions through AI/ML and Cloud Architecture. I build scalable, intelligent solutions to solve complex problems using the latest in Generative AI.
 
 
 ## 🌐 Socials:
