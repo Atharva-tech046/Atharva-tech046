@@ -2,9 +2,9 @@
 ### Data Scientist | AI/ML Engineer | Cloud Developer
 
 I specialize in the end-to-end development of intelligent systems—from extracting insights and training models to deploying them on scalable cloud infrastructures.
-- 📊 **Data & AI:** Transforming raw data into predictive models and actionable insights.
-- ☁️ **Cloud Engineering:** Architecting efficient backends and deployment pipelines.
-- 🎯 **Current Focus:** Cloud-Native AI & Data Engineering.
+-  **Data & AI:** Transforming raw data into predictive models and actionable insights.
+-  **Cloud Engineering:** Architecting efficient backends and deployment pipelines.
+-  **Current Focus:** Cloud-Native AI & Data Engineering.
 
 
 ## 🌐 Socials:
