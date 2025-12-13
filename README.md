@@ -1,4 +1,10 @@
-*Hi, I'm Atharva Mohite <br>*Data Scientist | AI/ML Engineer | Cloud Developer*<br><br>I bridge the gap between data and deployment. My passion lies in uncovering insights through **Data Analysis**, building predictive **AI/ML** models, and deploying them using modern **Cloud** technologies.<br><br>🧐 What I do?<br>*📊 **Data Science:** Turning raw data into actionable insights.<br>* 🤖 **AI/ML:** Training models that solve real-world problems.<br>* ☁️ **Cloud & Dev:** creating scalable backends and efficient pipelines.<br><br>Current Focus :<br>I am currently diving deep into **Cloud-Native AI development** and refining my skills in **Data Engineering**.<br><br>
+# Hi, I'm Atharva Mohite
+### Data Scientist | AI/ML Engineer | Cloud Developer
+
+I specialize in the end-to-end development of intelligent systems—from extracting insights and training models to deploying them on scalable cloud infrastructures.
+- 📊 **Data & AI:** Transforming raw data into predictive models and actionable insights.
+- ☁️ **Cloud Engineering:** Architecting efficient backends and deployment pipelines.
+- 🎯 **Current Focus:** Cloud-Native AI & Data Engineering.
 
 
 ## 🌐 Socials:
