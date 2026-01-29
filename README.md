@@ -15,9 +15,7 @@
 ---
 
 ##  About Me 👨🏻‍💻
-Data Architect & AI/ML Enthusiast | Building Scalable, Data-Centric Solutions with Python & Cloud.
-
-#Data-Centric Engineer focused on the intersection of Python-driven Analytics, Power BI visualization, and robust SQL architecture. Specialized in building high-performance backends with JavaScript and Node.js to power seamless, data-heavy applications. Passionate about bridging the gap between complex data engineering and cloud-native deployment to deliver scalable, intelligent solutions.
+DPython & SQL Data Architect | JavaScript Backend Developer | BI Specialist | Scaling Intelligence through Cloud Engineering.
 ---
 
 ## 💻 Tech Stack
