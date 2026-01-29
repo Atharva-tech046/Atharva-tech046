@@ -16,11 +16,8 @@
 
 ##  About Me 👨🏻‍💻
 Data Architect & AI/ML Enthusiast | Building Scalable, Data-Centric Solutions with Python & Cloud.
-
 📊 Data Analytics & BI
-
-⚙️ Backend & Database
-
+⚙️ Backend & Databases
 ☁️ Infrastructure & DevOps
 ---
 
