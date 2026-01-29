@@ -42,9 +42,6 @@ Python & SQL Data Architect | JavaScript Backend Developer | BI Specialist |  Cl
   <img src="https://nirzak-streak-stats.vercel.app/?user=Atharva-tech046&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-tech046&theme=tokyonight&layout=compact&hide_border=true" width="400" />
-</p>
 
 
 ---
