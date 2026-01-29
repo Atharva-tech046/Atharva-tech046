@@ -15,7 +15,7 @@
 ---
 
 ##  About Me 👨🏻‍💻
-DPython & SQL Data Architect | JavaScript Backend Developer | BI Specialist | Scaling Intelligence through Cloud Engineering.
+Python & SQL Data Architect | JavaScript Backend Developer | BI Specialist | Scaling Intelligence through Cloud Engineering.
 ---
 
 ## 💻 Tech Stack
