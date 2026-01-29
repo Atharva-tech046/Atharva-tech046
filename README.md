@@ -15,7 +15,7 @@
 ---
 
 ##  About Me 👨🏻‍💻
-Python & SQL Data Architect | JavaScript Backend Developer | BI Specialist |  Cloud 
+##  Python & SQL Data Architect | JavaScript Backend Developer | BI Specialist |  Cloud 
 
 ---
 
