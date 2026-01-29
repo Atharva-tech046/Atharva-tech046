@@ -14,13 +14,14 @@
 
 ---
 
-## 🚀 About Me
-I specialize in the end-to-end development of intelligent systems—from extracting insights and training models to deploying them on scalable cloud infrastructures.
+##  About Me 👨🏻‍💻
+Data Architect & AI/ML Enthusiast | Building Scalable, Data-Centric Solutions with Python & Cloud.
 
-* 🧠 **Data & AI:** Transforming raw data into predictive models and actionable insights.
-* ☁️ **Cloud Engineering:** Architecting efficient backends and deployment pipelines.
-* 🎯 **Current Focus:** Cloud-Native AI & Data Engineering.
+📊 Data Analytics & BI
 
+⚙️ Backend & Database
+
+☁️ Infrastructure & DevOps
 ---
 
 ## 💻 Tech Stack
