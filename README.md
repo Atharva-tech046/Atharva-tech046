@@ -5,9 +5,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=45A1FF&center=true&vCenter=true&width=600&lines=Data+Scientist;AI+/+ML+Engineer;Cloud+Native+Developer;Software+Craftsman" alt="Typing SVG" />
 </p>
-
 <p align="center">
-  <a href="www.linkedin.com/in/atharva-mohite-4604a31d"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/atharva-mohite-4604a31d"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:atharvam2017@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://quora.com/profile/https://www.quora.com/profile/ATHARVA-MOHITE-58"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white" /></a>
 </p>
