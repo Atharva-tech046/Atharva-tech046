@@ -46,10 +46,6 @@ Python & SQL Data Architect | JavaScript Backend Developer | BI Specialist |  Cl
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-tech046&theme=tokyonight&layout=compact&hide_border=true" width="400" />
 </p>
 
-### 🏆 Hall of Fame
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Atharva-tech046&theme=darkhub&no-frame=true&no-bg=true&column=4" />
-</p>
 
 ---
 
