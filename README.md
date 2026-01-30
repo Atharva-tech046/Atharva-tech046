@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Atharva-tech046&icon=0&color=7" />
+ 
 </p>
 
 <p align="center">
