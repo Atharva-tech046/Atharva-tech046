@@ -40,7 +40,7 @@
 
 ---
 
-## 📈 GIT HUB ANALYTICS
+## 📈 GIT HUB ANALYTICS:
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Atharva-tech046&theme=tokyonight&hide_border=true" width="48%" />
 </p>
