@@ -14,7 +14,7 @@
 ---
 
 ###   About Me 👨🏻‍💻
-##  Python & SQL Data Architect | Python Backend Systems | BI Specialist | Cloud 
+##  Python & Python Backend Systems | SQL | BI Specialist 
 
 ---
 
