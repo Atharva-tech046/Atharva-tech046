@@ -14,7 +14,7 @@
 ---
 
 ## 👨🏻‍💻 I AM ALL ABOUT:
-##  Python | SQL | Backend Systems | BI Specialist 
+##  Python | SQL | Backend Systems | Business Intelligence tools
 
 ---
 
