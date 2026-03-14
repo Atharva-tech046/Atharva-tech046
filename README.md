@@ -13,12 +13,12 @@
 
 ---
 
-###   About Me 👨🏻‍💻
-##  Python & Python Backend Systems | SQL | BI Specialist 
+## 👨🏻‍💻 I AM ALL ABOUT:
+##  Python | SQL | Backend Systems | BI Specialist 
 
 ---
 
-## 💻 Tech Stack
+## 💻 TECH STACK:
 
 ### 🛠️ Languages & Core
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
@@ -35,9 +35,12 @@
 ### 🗄️ Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
 
+### 📊 BI Tools & Analysis
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=microsoftpowerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=Tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=plastic&logo=microsoftexcel&logoColor=white)
+
 ---
 
-## 📊 Analytics & Activity
+## 📈 GIT HUB ANALYTICS
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Atharva-tech046&theme=tokyonight&hide_border=true" width="48%" />
 </p>
