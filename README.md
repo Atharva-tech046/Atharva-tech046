@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:45A1FF,100:7289DA&height=200&section=header&text=ATHARVA%20MOHITE&fontSize=70&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA043,100:10B981&height=200&section=header&text=ATHARVA%20MOHITE&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=45A1FF&center=true&vCenter=true&width=600&lines=Data+Scientist;Data+Analyst;Business+Analyst;Python+Developer;BI+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Data+Scientist;Data+Analyst;Business+Analyst;Python+Developer;BI+Specialist" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -48,5 +48,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:45A1FF,100:7289DA&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA043,100:10B981&height=100&section=footer" />
 </p>
